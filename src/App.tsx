@@ -1,9 +1,14 @@
 import "./App.css";
+import CTA from './CTA';
+import Capabilities from './Capabilities';
+import Challenge from './Challenge';
 
 function App() {
 	return (
 		<>
-			<div>Hello World</div>
+			<CTA />
+			<Capabilities />
+			<Challenge />
 		</>
 	);
 }
