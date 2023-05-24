@@ -1724,3 +1724,67 @@ ul.footerSocials img {
 
   color: #ffffff;
 }
+
+.demo_section {
+  margin: 0px 6% 0 6%;
+}
+
+.demo_section_box {
+  padding: 30px 0 30px 0;
+  background: #248aff;
+  width: 100%;
+  text-align: center;
+}
+
+.text_white {
+  color: white;
+}
+
+.text_white_smoke {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.text_black {
+  color: black;
+}
+
+.demo_heading {
+  font-family: "Graphik";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 48px;
+  /* identical to box height, or 100% */
+
+  text-align: center;
+  letter-spacing: -0.032em;
+}
+
+.demo_sub_text {
+  font-family: "Graphik";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  /* or 120% */
+
+  text-align: center;
+  letter-spacing: -0.024em;
+}
+
+.demo_button {
+  background: white;
+  border-radius: 999px;
+  border: none;
+  padding: 20px 50px 20px 50px;
+  font-family: "Graphik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  /* identical to box height, or 111% */
+
+  text-align: center;
+  letter-spacing: -0.016em;
+  cursor: pointer;
+}
